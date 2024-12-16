@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "data (things)"
+    },
+    "description": "This extension is designed to work with the NoCodePlus components library.\n\nIt provides a variety of Dummy Data to populate the elements of the components available within the NoCodePlus library.",
+    "image": "//meta-q.cdn.bubble.io/f1734388968689x721640026096159700/Profile%20Picture.png",
+    "license": "open_source",
+    "link": "https://nocodeplus.io",
+    "name": "NoCodePlus",
+    "plugin_instructions": "1. Install our Chrome extension.\n\n2. Install this plugin to your app.\n\n3. Start using our data related components."
+}
